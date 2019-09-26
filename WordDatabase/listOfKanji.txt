@@ -1,0 +1,4 @@
+testing line 1 : this is the definition/translation. : this is an hint.
+testing line 2 : this is the definition/translation. the second 1 : this is an hint. number 2
+testing line 3 : this is the definition/translation. the third line : this is an hint. 3
+ありがとうございました : DEFINITION : hint e.g "story of the grateful cat"
